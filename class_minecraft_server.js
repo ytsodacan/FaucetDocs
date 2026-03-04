@@ -1,0 +1,28 @@
+var class_minecraft_server =
+[
+    [ "broadcastStartSavingPacket", "class_minecraft_server.html#abb01f328c025ed316383db4b4b58e58f", null ],
+    [ "broadcastStopSavingPacket", "class_minecraft_server.html#a85dc5ebb68b72ddfd51a70625202aa2d", null ],
+    [ "getCommandDispatcher", "class_minecraft_server.html#a76db6216c68a4aa18648ecc9aff09c07", null ],
+    [ "getLevel", "class_minecraft_server.html#ad814c12cc073a08905d5868a6ee063ca", null ],
+    [ "getMaxBuildHeight", "class_minecraft_server.html#a38ec852cd572c77f089646e9086faf25", null ],
+    [ "getPlayerIdleTimeout", "class_minecraft_server.html#a6e852e9b5c7d0d8e10d421e95edcc8c7", null ],
+    [ "getPlayers", "class_minecraft_server.html#aebe4fa9eb4b2748df34200d4a66b6640", null ],
+    [ "handleConsoleInput", "class_minecraft_server.html#a960350038db3268b24db5bf23bd1d95d", null ],
+    [ "info", "class_minecraft_server.html#a02c5b9b5218fb57cdf667e8f2dbbdcbe", null ],
+    [ "isCommandBlockEnabled", "class_minecraft_server.html#a1dd09be7c2081852cf0af234796127e7", null ],
+    [ "isFlightAllowed", "class_minecraft_server.html#ac90d424ef9b1da4d177ff6ddc9ba6ab5", null ],
+    [ "isHardcore", "class_minecraft_server.html#a44bed1961c9801f6b7181651318d2609", null ],
+    [ "isNetherEnabled", "class_minecraft_server.html#ab2392b7a7adca80e6320e06da91da30a", null ],
+    [ "isPvpAllowed", "class_minecraft_server.html#a8eadf8acd95174d8db6155f5be33194d", null ],
+    [ "setFlightAllowed", "class_minecraft_server.html#abbc4005b528e5a072e7b614065232e3a", null ],
+    [ "setMaxBuildHeight", "class_minecraft_server.html#a685ae0f2d1377e18f998a765a8127177", null ],
+    [ "setPlayerIdleTimeout", "class_minecraft_server.html#a001293d75949f962a09825d8538f8b86", null ],
+    [ "setPvpAllowed", "class_minecraft_server.html#a68df71ddd5b9750dd26cbfa8ec5329a4", null ],
+    [ "warn", "class_minecraft_server.html#a207f2b0df6c8faaf46ff43659f8f29b6", null ],
+    [ "allowFlight", "class_minecraft_server.html#afd8adf8d33dff0ae8d22bc06d3c2e589", null ],
+    [ "animals", "class_minecraft_server.html#a944cf399488bd839299b5f7039c224df", null ],
+    [ "motd", "class_minecraft_server.html#a44fdbeb3f8ef84ac3a62841a04f9a253", null ],
+    [ "npcs", "class_minecraft_server.html#a81002c80d47307377456c93b748d4fbc", null ],
+    [ "pvp", "class_minecraft_server.html#af4aec490e32ef727fc76554126f27f2c", null ],
+    [ "tickCount", "class_minecraft_server.html#a4c02c35a3fed370ac263218fc7e55285", null ]
+];

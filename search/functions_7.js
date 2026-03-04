@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['info_0',['info',['../class_minecraft_server.html#a02c5b9b5218fb57cdf667e8f2dbbdcbe',1,'MinecraftServer']]],
+  ['isclientside_1',['isClientSide',['../class_minecraft.html#a1d7449e9bd4302fe4ccef998b1a88634',1,'Minecraft']]],
+  ['iscommandblockenabled_2',['isCommandBlockEnabled',['../class_minecraft_server.html#a1dd09be7c2081852cf0af234796127e7',1,'MinecraftServer']]],
+  ['iscreative_3',['isCreative',['../class_server_player_game_mode.html#ad5467afeda0c7f98fa9d6a61afb745e7',1,'ServerPlayerGameMode']]],
+  ['isflightallowed_4',['IsFlightAllowed',['../namespace_s_d_k.html#ae3579f89e8c5be86c6a007eada8abc10',1,'SDK']]],
+  ['isflightallowed_5',['isFlightAllowed',['../class_minecraft_server.html#ac90d424ef9b1da4d177ff6ddc9ba6ab5',1,'MinecraftServer']]],
+  ['isflying_6',['isFlying',['../class_player.html#aebf1ad14c05b62b1545b09ca60d5c201',1,'Player']]],
+  ['ishardcore_7',['isHardcore',['../class_minecraft_server.html#a44bed1961c9801f6b7181651318d2609',1,'MinecraftServer']]],
+  ['isnetherenabled_8',['isNetherEnabled',['../class_minecraft_server.html#ab2392b7a7adca80e6320e06da91da30a',1,'MinecraftServer']]],
+  ['isop_9',['isOp',['../class_player_list.html#a078f0931a4093eec93d100a68483a5aa',1,'PlayerList']]],
+  ['ispvpallowed_10',['IsPvpAllowed',['../namespace_s_d_k.html#aa5fedaa98d0a6c73cb534d006fe5eeea',1,'SDK']]],
+  ['ispvpallowed_11',['isPvpAllowed',['../class_minecraft_server.html#a8eadf8acd95174d8db6155f5be33194d',1,'MinecraftServer']]],
+  ['issneaking_12',['isSneaking',['../class_player.html#a60fa3d124efb5b76b1a8de182bafdb98',1,'Player']]],
+  ['issprinting_13',['isSprinting',['../class_player.html#acc74e1d3a1996382fec29e6ddc9280b4',1,'Player']]],
+  ['issurvival_14',['isSurvival',['../class_server_player_game_mode.html#aaa35624a055ff0b13fabd9f9687d9954',1,'ServerPlayerGameMode']]]
+];
